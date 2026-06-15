@@ -1,0 +1,9 @@
+((node
+   11
+   (leaf 4 a)
+   (node
+    7
+    (node 3 (leaf 1 b) (node 2 (leaf 1 "asd") (leaf 1 c)))
+    (node 4 (node 2 (leaf 1 10) (leaf 1 3)) (leaf 2 #t))))
+  .
+  "01001110101111110100110111000"))
